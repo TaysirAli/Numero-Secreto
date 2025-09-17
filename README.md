@@ -10,7 +10,6 @@ Um jogo interativo desenvolvido com **HTML, CSS e JavaScript**, onde o objetivo 
 - Contador de tentativas com mensagem personalizada.
 - Botão de **reiniciar jogo** após acerto.
 - Interface responsiva e estilizada com CSS.
-- Integração com **[ResponsiveVoice](https://responsivevoice.org/)** para leitura em voz alta das mensagens.
 
 ---
 
@@ -27,7 +26,6 @@ Um jogo interativo desenvolvido com **HTML, CSS e JavaScript**, onde o objetivo 
 - **HTML5**
 - **CSS3** (gradientes, responsividade, estilização moderna)
 - **JavaScript (ES6+)**
-- [ResponsiveVoice API](https://responsivevoice.org/) (narração de mensagens)
 
 ---
 
